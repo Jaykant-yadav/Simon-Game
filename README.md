@@ -1,4 +1,3 @@
-# Simon-Game
 # 🎮 Simon Game
 
 A simple memory-based color sequence game built using **HTML**, **CSS**, and **JavaScript**. The player must repeat the randomly generated sequence of colors. Each correct round adds another color to the sequence, increasing the difficulty.
@@ -7,8 +6,9 @@ A simple memory-based color sequence game built using **HTML**, **CSS**, and **J
 
 ## 📸 Preview
 
-![Simon Game Preview](./assets/Sc1.png) *(Include a screenshot of the game UI here)*
-![Simon Game Preview](./assets/sc2.png) *(Include a screenshot of the game UI here)*
+![Simon Game Preview](./assets/Sc1.png)
+
+![Simon Game Preview](./assets/sc2.png)
 
 ---
 
@@ -33,9 +33,9 @@ A simple memory-based color sequence game built using **HTML**, **CSS**, and **J
 ## ✨ Features
 
 - ✅ Smooth UI with responsive design.
-- ✅ Color animations and sounds for feedback.
+- ✅ Color animations.
 - ✅ Keeps track of current level.
-- ✅ Game Over screen with restart option.
+- ✅ Game Over auto reset screen levels.
 
 ---
 
