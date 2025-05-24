@@ -1,4 +1,5 @@
 # 🎮 Simon Game
+#### 🔗 Live Demo -> [Click here](https://jaykant-yadav.github.io/Simon-Game/)
 
 A simple memory-based color sequence game built using **HTML**, **CSS**, and **JavaScript**. The player must repeat the randomly generated sequence of colors. Each correct round adds another color to the sequence, increasing the difficulty.
 
